@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "lerna run test --scope={@walnut/common,@walnut/common}",
+    "test2": "lerna run test --since",
     "new-version": "lerna version --conventional-commits --yes",
     "diff": "lerna diff"
   }
