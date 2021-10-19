@@ -1,1 +1,3 @@
-const server = () => 2;
+const commonFunction = require('@walnut/common');
+
+commonFunction();

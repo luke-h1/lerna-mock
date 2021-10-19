@@ -1,1 +1,3 @@
-const dummy = () => 1;
+module.exports = () => {
+  console.log('Hello from common package!')
+}

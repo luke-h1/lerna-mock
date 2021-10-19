@@ -1,10 +1,10 @@
 {
-  "name": "server",
+  "name": "@walnut/server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo testing server with version: $npm_package_version"
   },
   "keywords": [],
   "author": "",
